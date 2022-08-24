@@ -1,13 +1,19 @@
-package com.iamgkt.brewmic;
+package com.iamgkt.brewery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author iamgovind
+ *
+ */
+
+
 @SpringBootApplication
-public class BrewMicApplication {
+public class BreweryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BrewMicApplication.class, args);
+		SpringApplication.run(BreweryApplication.class, args);
 	}
 
 }

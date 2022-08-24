@@ -1,10 +1,10 @@
-package com.iamgkt.brewmic;
+package com.iamgkt.brewery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BrewMicApplicationTests {
+class BreweryApplicationTests {
 
 	@Test
 	void contextLoads() {

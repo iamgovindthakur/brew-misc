@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.iamgkt</groupId>
-	<artifactId>brew-mic</artifactId>
+	<artifactId>brewery-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>brew-mic</name>
-	<description>brew-misc</description>
+	<name>brewery-service</name>
+	<description>brewery-service</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
